@@ -1,0 +1,1410 @@
+Fri Feb 25 02:24:50 EST 2022 DATA EmailDisambiguationNetworkTask getIdentityProvider: MSAccount 
+Fri Feb 25 02:24:50 EST 2022 E com.microsoft.authorization.r processResult: Sorry, only one personal OneDrive account can be signed in. 
+Fri Feb 25 02:24:50 EST 2022 DATA SignInInstrumentationEvent Sign in Failed on stage EmailDisambiguation for AccountType null 
+Fri Feb 25 02:24:50 EST 2022 DATA SignInInstrumentationEvent Phoneauthenabled: enabled
+Auth Type: EMAIL
+AuthResult: Failed
+AuthStage: EmailDisambiguation 
+Fri Feb 25 02:24:50 EST 2022 DATA DeviceAndApplicationInfo Pre: false 
+Fri Feb 25 02:24:50 EST 2022 DATA DeviceAndApplicationInfo Pre: true 
+Fri Feb 25 02:24:50 EST 2022 E SignInInstrumentationEvent Sign in exception: Sorry, only one personal OneDrive account can be signed in. com.microsoft.authorization.m$e: Sorry, only one personal OneDrive account can be signed in.
+	at com.microsoft.authorization.r.F(SourceFile:20)
+	at com.microsoft.authorization.r.x(SourceFile:1)
+	at com.microsoft.authorization.m$d.onSuccess(SourceFile:3)
+	at com.microsoft.authorization.s$a$a.a(SourceFile:2)
+	at com.microsoft.authorization.s$a$a.onSuccess(SourceFile:1)
+	at com.microsoft.authorization.s$c.b(SourceFile:2)
+	at m.i$b$a.d(SourceFile:3)
+	at m.a.run(Unknown Source:6)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:237)
+	at android.app.ActivityThread.main(ActivityThread.java:7860)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:493)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1075)
+
+Fri Feb 25 02:24:50 EST 2022 DATA com.microsoft.authorization.l1.g Sign in Failed on stage EmailDisambiguation for AccountType null 
+Fri Feb 25 02:24:50 EST 2022 DATA DeviceAndApplicationInfo Pre: false 
+Fri Feb 25 02:24:50 EST 2022 DATA DeviceAndApplicationInfo Pre: true 
+Fri Feb 25 02:24:50 EST 2022 E com.microsoft.authorization.l1.g Sign in exception: Sorry, only one personal OneDrive account can be signed in. com.microsoft.authorization.m$e: Sorry, only one personal OneDrive account can be signed in.
+	at com.microsoft.authorization.r.F(SourceFile:20)
+	at com.microsoft.authorization.r.x(SourceFile:1)
+	at com.microsoft.authorization.m$d.onSuccess(SourceFile:3)
+	at com.microsoft.authorization.s$a$a.a(SourceFile:2)
+	at com.microsoft.authorization.s$a$a.onSuccess(SourceFile:1)
+	at com.microsoft.authorization.s$c.b(SourceFile:2)
+	at m.i$b$a.d(SourceFile:3)
+	at m.a.run(Unknown Source:6)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:237)
+	at android.app.ActivityThread.main(ActivityThread.java:7860)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:493)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1075)
+
+Fri Feb 25 02:24:50 EST 2022 DATA OneDrivePrivacyDelegate (I) Auth/SignIn RequiredServiceData null null true 
+Fri Feb 25 02:24:50 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Fri Feb 25 02:25:07 EST 2022 DATA EmailDisambiguationNetworkTask getFederationProvider: Global 
+Fri Feb 25 02:25:07 EST 2022 DATA EmailDisambiguationNetworkTask getIdentityProvider: MSAccount 
+Fri Feb 25 02:25:07 EST 2022 E com.microsoft.authorization.r processResult: Sorry, only one personal OneDrive account can be signed in. 
+Fri Feb 25 02:25:07 EST 2022 DATA SignInInstrumentationEvent Sign in Failed on stage EmailDisambiguation for AccountType null 
+Fri Feb 25 02:25:07 EST 2022 DATA SignInInstrumentationEvent Phoneauthenabled: enabled
+Auth Type: EMAIL
+AuthResult: Failed
+AuthStage: EmailDisambiguation 
+Fri Feb 25 02:25:07 EST 2022 DATA DeviceAndApplicationInfo Pre: false 
+Fri Feb 25 02:25:07 EST 2022 DATA DeviceAndApplicationInfo Pre: true 
+Fri Feb 25 02:25:07 EST 2022 E SignInInstrumentationEvent Sign in exception: Sorry, only one personal OneDrive account can be signed in. com.microsoft.authorization.m$e: Sorry, only one personal OneDrive account can be signed in.
+	at com.microsoft.authorization.r.F(SourceFile:20)
+	at com.microsoft.authorization.r.x(SourceFile:1)
+	at com.microsoft.authorization.m$d.onSuccess(SourceFile:3)
+	at com.microsoft.authorization.s$a$a.a(SourceFile:2)
+	at com.microsoft.authorization.s$a$a.onSuccess(SourceFile:1)
+	at com.microsoft.authorization.s$c.b(SourceFile:2)
+	at m.i$b$a.d(SourceFile:3)
+	at m.a.run(Unknown Source:6)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:237)
+	at android.app.ActivityThread.main(ActivityThread.java:7860)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:493)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1075)
+
+Fri Feb 25 02:25:07 EST 2022 DATA com.microsoft.authorization.l1.g Sign in Failed on stage EmailDisambiguation for AccountType null 
+Fri Feb 25 02:25:07 EST 2022 DATA DeviceAndApplicationInfo Pre: false 
+Fri Feb 25 02:25:07 EST 2022 DATA DeviceAndApplicationInfo Pre: true 
+Fri Feb 25 02:25:07 EST 2022 E com.microsoft.authorization.l1.g Sign in exception: Sorry, only one personal OneDrive account can be signed in. com.microsoft.authorization.m$e: Sorry, only one personal OneDrive account can be signed in.
+	at com.microsoft.authorization.r.F(SourceFile:20)
+	at com.microsoft.authorization.r.x(SourceFile:1)
+	at com.microsoft.authorization.m$d.onSuccess(SourceFile:3)
+	at com.microsoft.authorization.s$a$a.a(SourceFile:2)
+	at com.microsoft.authorization.s$a$a.onSuccess(SourceFile:1)
+	at com.microsoft.authorization.s$c.b(SourceFile:2)
+	at m.i$b$a.d(SourceFile:3)
+	at m.a.run(Unknown Source:6)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:237)
+	at android.app.ActivityThread.main(ActivityThread.java:7860)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:493)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1075)
+
+Fri Feb 25 02:25:07 EST 2022 DATA OneDrivePrivacyDelegate (I) Auth/SignIn RequiredServiceData null null true 
+Fri Feb 25 02:25:07 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Fri Feb 25 02:25:19 EST 2022 DATA EmailDisambiguationNetworkTask getFederationProvider: Global 
+Fri Feb 25 02:25:20 EST 2022 DATA EmailDisambiguationNetworkTask getIdentityProvider: MSAccount 
+Fri Feb 25 02:25:20 EST 2022 E com.microsoft.authorization.r processResult: Sorry, only one personal OneDrive account can be signed in. 
+Fri Feb 25 02:25:20 EST 2022 DATA SignInInstrumentationEvent Sign in Failed on stage EmailDisambiguation for AccountType null 
+Fri Feb 25 02:25:20 EST 2022 DATA SignInInstrumentationEvent Phoneauthenabled: enabled
+Auth Type: EMAIL
+AuthResult: Failed
+AuthStage: EmailDisambiguation 
+Fri Feb 25 02:25:20 EST 2022 DATA DeviceAndApplicationInfo Pre: false 
+Fri Feb 25 02:25:20 EST 2022 DATA DeviceAndApplicationInfo Pre: true 
+Fri Feb 25 02:25:20 EST 2022 E SignInInstrumentationEvent Sign in exception: Sorry, only one personal OneDrive account can be signed in. com.microsoft.authorization.m$e: Sorry, only one personal OneDrive account can be signed in.
+	at com.microsoft.authorization.r.F(SourceFile:20)
+	at com.microsoft.authorization.r.x(SourceFile:1)
+	at com.microsoft.authorization.m$d.onSuccess(SourceFile:3)
+	at com.microsoft.authorization.s$a$a.a(SourceFile:2)
+	at com.microsoft.authorization.s$a$a.onSuccess(SourceFile:1)
+	at com.microsoft.authorization.s$c.b(SourceFile:2)
+	at m.i$b$a.d(SourceFile:3)
+	at m.a.run(Unknown Source:6)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:237)
+	at android.app.ActivityThread.main(ActivityThread.java:7860)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:493)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1075)
+
+Fri Feb 25 02:25:20 EST 2022 DATA com.microsoft.authorization.l1.g Sign in Failed on stage EmailDisambiguation for AccountType null 
+Fri Feb 25 02:25:20 EST 2022 DATA DeviceAndApplicationInfo Pre: false 
+Fri Feb 25 02:25:20 EST 2022 DATA DeviceAndApplicationInfo Pre: true 
+Fri Feb 25 02:25:20 EST 2022 E com.microsoft.authorization.l1.g Sign in exception: Sorry, only one personal OneDrive account can be signed in. com.microsoft.authorization.m$e: Sorry, only one personal OneDrive account can be signed in.
+	at com.microsoft.authorization.r.F(SourceFile:20)
+	at com.microsoft.authorization.r.x(SourceFile:1)
+	at com.microsoft.authorization.m$d.onSuccess(SourceFile:3)
+	at com.microsoft.authorization.s$a$a.a(SourceFile:2)
+	at com.microsoft.authorization.s$a$a.onSuccess(SourceFile:1)
+	at com.microsoft.authorization.s$c.b(SourceFile:2)
+	at m.i$b$a.d(SourceFile:3)
+	at m.a.run(Unknown Source:6)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:237)
+	at android.app.ActivityThread.main(ActivityThread.java:7860)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:493)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1075)
+
+Fri Feb 25 02:25:20 EST 2022 DATA OneDrivePrivacyDelegate (I) Auth/SignIn RequiredServiceData null null true 
+Fri Feb 25 02:25:20 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Fri Feb 25 02:25:30 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasHighestPlan is false 
+Fri Feb 25 02:25:30 EST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Fri Feb 25 02:25:30 EST 2022 DATA OneDrivePrivacyDelegate (I) Page/MainActivity RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:30 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasHighestPlan is false 
+Fri Feb 25 02:25:30 EST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Fri Feb 25 02:25:30 EST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Fri Feb 25 02:25:30 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasHighestPlan is false 
+Fri Feb 25 02:25:30 EST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Fri Feb 25 02:25:30 EST 2022 DATA MainActivityController showSignInScreenIfNeeded 
+Fri Feb 25 02:25:30 EST 2022 DATA MOJPrivacyUtils Sync MSA RoamingSetting was invoked but not executed because last call was 599 seconds ago 
+Fri Feb 25 02:25:30 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasHighestPlan is false 
+Fri Feb 25 02:25:30 EST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Fri Feb 25 02:25:30 EST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Fri Feb 25 02:25:30 EST 2022 DATA com.microsoft.skydrive.fre.k FirstRunExperienceManager launchExperience for CAMERA_UPLOAD 
+Fri Feb 25 02:25:30 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasHighestPlan is false 
+Fri Feb 25 02:25:30 EST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Fri Feb 25 02:25:30 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasHighestPlan is false 
+Fri Feb 25 02:25:30 EST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Fri Feb 25 02:25:30 EST 2022 DATA DeviceAndApplicationInfo Pre: true 
+Fri Feb 25 02:25:30 EST 2022 V a Google Api Availability return code: 0 
+Fri Feb 25 02:25:38 EST 2022 DATA OneDrivePrivacyDelegate (I) BottomNavigationTapped RequiredServiceData null null true 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.skydrive.f3 [Intune] showIntuneUiIfNeeded() LockScreenManager switchMAMIdentityIfNeeded 
+Fri Feb 25 02:25:38 EST 2022 I LockScreenManager [Intune] switchMAMIdentityIfNeeded - null operation; accountType: OneDriveAccount 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.skydrive.f3 [Intune] showIntuneUiIfNeeded() popBackStack 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Providing refresh task for  "9FA930DC27B6F70F!101"  isRoot:  true (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Scheduling refresh for syncroot with ID  1 (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Creating refresh factory (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Page size : "1000" (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.skydrive.MainActivity resetDetailFragment 
+Fri Feb 25 02:25:38 EST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface VRoomGetItemsFetcher: Issuing first page request with url host:  "api.onedrive.com" (:0) 
+Fri Feb 25 02:25:38 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Fri Feb 25 02:25:38 EST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface The request sync root points to  1 "root" (:0) 
+Fri Feb 25 02:25:38 EST 2022 DATA QueryBasedCursor Closing cursor with 5 items 
+Fri Feb 25 02:25:38 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:38 EST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Fri Feb 25 02:25:38 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  94 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  94 ,  2  completed. (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  94 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:38 EST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Fri Feb 25 02:25:38 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:25:38 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  94 ,  2  completed. (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  94 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  94 ,  2  completed. (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  94 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  94 ,  2  completed. (:0) 
+Fri Feb 25 02:25:38 EST 2022 DATA QueryBasedCursor Closing cursor with 5 items 
+Fri Feb 25 02:25:38 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:38 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  94 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  94 ,  2  completed. (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  94 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  94 ,  2  completed. (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  94 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  94 ,  2  completed. (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  94 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:38 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  94 ,  2  completed. (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Get an item as the special folder:  "vault" (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Writing metadata for item  3 (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Metadata for item  3  is written in  27 ms :  4  items  fetchFolderOnly:  true vaulttype: 0 (:0) 
+Fri Feb 25 02:25:39 EST 2022 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Attributing api call for " "Metadata/GetItems" " (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Get an item as the special folder:  "photos" (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Get an item as the special folder:  "samsungGallery" (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Get an item as the special folder:  "cameraRoll" (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got valid response for item  "root"  with  25 Duration:  526 (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface tagsItems found :  18 (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface locations found :  25 (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Writing Metadata for syncRoot ResourceId "root" (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface GetChanges insert or update ODC special folder:  "root" (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface GetChanges insert or update ODC special folder:  "photos" (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface GetChanges insert or update ODC special folder:  "samsungGallery" (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface GetChanges insert or update ODC special folder:  "cameraRoll" (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Metadata for syncRoot ResourceId "root" is written into db in 107 ms with 0 ms yield time. The network request takes 526 ms. There are 25 items in total and 6 items are skipped. There are  0  locations data in total.  The sync is against the parentSyncRoot: true (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface The app status. PowerSaveMode: false ForegroundMode: true (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Loop through tags and find itemRowIds (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Delete all tags relationships for each item (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Insert or update Tags entries (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Schedule propagation of special folder classification. (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing propagate classification (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Queue is empty, there are no folders to propagate (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface removeDeletedItemsFromViews experiment:  0 , run deletion query:  YES (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface ViewsDBHelper::removeDeletedItemsFromViews is done (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Skip unreferenced locations deletion due to less than a week (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Total time to sync (ms):  681 (:0) 
+Fri Feb 25 02:25:39 EST 2022 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Attributing api call for " "Metadata/GetChanges" " (:0) 
+Fri Feb 25 02:25:39 EST 2022 DATA QueryBasedCursor Closing cursor with 5 items 
+Fri Feb 25 02:25:39 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:39 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  94 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  94 ,  2  completed. (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  94 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  94 ,  2  completed. (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  94 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  94 ,  2  completed. (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  94 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:94 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:39 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  94 ,  2  completed. (:0) 
+Fri Feb 25 02:25:42 EST 2022 DATA OneDrivePrivacyDelegate (I) Performance/PageLoadingPerformance RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:43 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Fri Feb 25 02:25:43 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Fri Feb 25 02:25:43 EST 2022 DATA OneDrivePrivacyDelegate (I) AccountSwitcher/IconTapped RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:43 EST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.skydrive.d2 Navigating to item 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.skydrive.MainActivity resetDetailFragment 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.skydrive.MainActivity resetDetailFragment 
+Fri Feb 25 02:25:48 EST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Fri Feb 25 02:25:48 EST 2022 DATA OneDrivePrivacyDelegate (I) Action/InvokeOperation RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:48 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Providing refresh task for  "9FA930DC27B6F70F!188"  isRoot:  false (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Scheduling refresh for syncroot with ID  1 (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface VRoomGetItemsFetcher: Issuing first page request with url host:  "api.onedrive.com" (:0) 
+Fri Feb 25 02:25:48 EST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Fri Feb 25 02:25:48 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  92 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  92 ,  2  completed. (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  92 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  92 ,  2  completed. (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  92 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.skydrive.f3 [Intune] showIntuneUiIfNeeded() LockScreenManager switchMAMIdentityIfNeeded 
+Fri Feb 25 02:25:48 EST 2022 I LockScreenManager [Intune] switchMAMIdentityIfNeeded - null operation; accountType: OneDriveAccount 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.skydrive.f3 [Intune] showIntuneUiIfNeeded() popBackStack 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  92 ,  2  completed. (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  92 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  92 ,  2  completed. (:0) 
+Fri Feb 25 02:25:48 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Fri Feb 25 02:25:48 EST 2022 DATA QueryBasedCursor Closing cursor with 5 items 
+Fri Feb 25 02:25:48 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Get an item as the special folder:  "apps" (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Get an item as the special folder:  "documents" (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Get an item as the special folder:  "photos" (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Writing metadata for item  64 (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Metadata for item  64  is written in  24 ms :  3  items  fetchFolderOnly:  true vaulttype: 0 (:0) 
+Fri Feb 25 02:25:48 EST 2022 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Attributing api call for " "Metadata/GetItems" " (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Fri Feb 25 02:25:48 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Fri Feb 25 02:25:49 EST 2022 DATA QueryBasedCursor Closing cursor with 4 items 
+Fri Feb 25 02:25:49 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:49 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  92 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  92 ,  2  completed. (:0) 
+Fri Feb 25 02:25:49 EST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Fri Feb 25 02:25:49 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:25:49 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  92 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  92 ,  2  completed. (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  92 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  92 ,  2  completed. (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  92 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  92 ,  2  completed. (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  92 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  92 ,  2  completed. (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  92 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:49 EST 2022 DATA OneDrivePrivacyDelegate (I) LoopDetected RequiredServiceData null null true 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  92 ,  2  completed. (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  92 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  92 ,  2  completed. (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  92 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:49 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  92 ,  2  completed. (:0) 
+Fri Feb 25 02:25:51 EST 2022 DATA t onStateChanged: unlocked->locked 
+Fri Feb 25 02:25:51 EST 2022 DATA t resetUnlockExpireTimer: reset timer and broadcast. 
+Fri Feb 25 02:25:51 EST 2022 DATA VaultCheckLockedStateReceiver onReceive: expected state: Locked  | actual state: Locked 
+Fri Feb 25 02:25:51 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:51 EST 2022 DATA QueryBasedCursor Closing cursor with 4 items 
+Fri Feb 25 02:25:51 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:51 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  92 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  92 ,  2  completed. (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  92 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  92 ,  2  completed. (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  92 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  92 ,  2  completed. (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  92 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend" (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.skydrive.d2 Navigating to item 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:92 with extension:.xlsx is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  92 ,  2  completed. (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.skydrive.MainActivity resetDetailFragment 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.skydrive.MainActivity resetDetailFragment 
+Fri Feb 25 02:25:51 EST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Fri Feb 25 02:25:51 EST 2022 DATA OneDrivePrivacyDelegate (I) Action/InvokeOperation RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:51 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Providing refresh task for  "9FA930DC27B6F70F!152"  isRoot:  false (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Scheduling refresh for syncroot with ID  1 (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface VRoomGetItemsFetcher: Issuing first page request with url host:  "api.onedrive.com" (:0) 
+Fri Feb 25 02:25:51 EST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Fri Feb 25 02:25:51 EST 2022 DATA com.microsoft.odsp.c0.c All items are deselected 
+Fri Feb 25 02:25:51 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  40 ,  8  synchronously. (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend" (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  40 ,  8  completed. (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  40 ,  8  synchronously. (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.skydrive.f3 [Intune] showIntuneUiIfNeeded() LockScreenManager switchMAMIdentityIfNeeded 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend" (:0) 
+Fri Feb 25 02:25:51 EST 2022 I LockScreenManager [Intune] switchMAMIdentityIfNeeded - null operation; accountType: OneDriveAccount 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.skydrive.f3 [Intune] showIntuneUiIfNeeded() popBackStack 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  40 ,  8  completed. (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  40 ,  8  synchronously. (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend" (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  40 ,  8  completed. (:0) 
+Fri Feb 25 02:25:51 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  40 ,  8  synchronously. (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend" (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  40 ,  8  completed. (:0) 
+Fri Feb 25 02:25:51 EST 2022 DATA QueryBasedCursor Closing cursor with 4 items 
+Fri Feb 25 02:25:51 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Get an item as the special folder:  "apps" (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Writing metadata for item  39 (:0) 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Metadata for item  39  is written in  19 ms :  1  items  fetchFolderOnly:  true vaulttype: 0 (:0) 
+Fri Feb 25 02:25:51 EST 2022 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:51 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Attributing api call for " "Metadata/GetItems" " (:0) 
+Fri Feb 25 02:25:52 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:25:52 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:52 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  40 ,  8  synchronously. (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend" (:0) 
+Fri Feb 25 02:25:52 EST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  40 ,  8  completed. (:0) 
+Fri Feb 25 02:25:52 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:25:52 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  40 ,  8  synchronously. (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend" (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  40 ,  8  completed. (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  40 ,  8  synchronously. (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend" (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  40 ,  8  completed. (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  40 ,  8  synchronously. (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend" (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  40 ,  8  completed. (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  40 ,  8  synchronously. (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend" (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  40 ,  8  completed. (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  40 ,  8  synchronously. (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend" (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  40 ,  8  completed. (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  40 ,  8  synchronously. (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend" (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:8(ScaledSmall) for item:40 with extension: is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:52 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  40 ,  8  completed. (:0) 
+Fri Feb 25 02:25:52 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:52 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:52 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:52 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:52 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:52 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:52 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:52 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:52 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:52 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:52 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:53 EST 2022 DATA OneDrivePrivacyDelegate (I) Performance/PageLoadingPerformance RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:53 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Fri Feb 25 02:25:53 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.skydrive.d2 Navigating to item 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.skydrive.MainActivity resetDetailFragment 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.skydrive.MainActivity resetDetailFragment 
+Fri Feb 25 02:25:54 EST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Fri Feb 25 02:25:54 EST 2022 DATA OneDrivePrivacyDelegate (I) Action/InvokeOperation RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:54 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Providing refresh task for  "9FA930DC27B6F70F!153"  isRoot:  false (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Scheduling refresh for syncroot with ID  1 (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Creating refresh factory (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Page size : "1000" (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface VRoomGetItemsFetcher: Issuing first page request with url host:  "api.onedrive.com" (:0) 
+Fri Feb 25 02:25:54 EST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Fri Feb 25 02:25:54 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface The request sync root points to  1 "root" (:0) 
+Fri Feb 25 02:25:54 EST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::ssl.live.com::MBI_SSL 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend" (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  2  completed. (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend" (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.skydrive.f3 [Intune] showIntuneUiIfNeeded() LockScreenManager switchMAMIdentityIfNeeded 
+Fri Feb 25 02:25:54 EST 2022 I LockScreenManager [Intune] switchMAMIdentityIfNeeded - null operation; accountType: OneDriveAccount 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.skydrive.f3 [Intune] showIntuneUiIfNeeded() popBackStack 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  2  completed. (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend" (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  2  completed. (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend" (:0) 
+Fri Feb 25 02:25:54 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  2  completed. (:0) 
+Fri Feb 25 02:25:54 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:25:54 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got valid response for item  "root"  with  0 Duration:  153 (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface tagsItems found :  0 (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface locations found :  0 (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Writing Metadata for syncRoot ResourceId "root" (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Metadata for syncRoot ResourceId "root" is written into db in 8 ms with 0 ms yield time. The network request takes 153 ms. There are 0 items in total and 0 items are skipped. There are  0  locations data in total.  The sync is against the parentSyncRoot: true (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface The app status. PowerSaveMode: false ForegroundMode: true (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Schedule propagation of special folder classification. (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing propagate classification (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Queue is empty, there are no folders to propagate (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Skip unreferenced locations deletion due to less than a week (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Total time to sync (ms):  182 (:0) 
+Fri Feb 25 02:25:54 EST 2022 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Attributing api call for " "Metadata/GetChanges" " (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Writing metadata for item  40 (:0) 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Metadata for item  40  is written in  19 ms :  0  items  fetchFolderOnly:  true vaulttype: 0 (:0) 
+Fri Feb 25 02:25:54 EST 2022 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:54 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Attributing api call for " "Metadata/GetItems" " (:0) 
+Fri Feb 25 02:25:55 EST 2022 DATA OneDrivePrivacyDelegate (I) Performance/PageLoadingPerformance RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:55 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:25:55 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:55 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend" (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  2  completed. (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:55 EST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend" (:0) 
+Fri Feb 25 02:25:55 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:25:55 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  2  completed. (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend" (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  2  completed. (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend" (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  2  completed. (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend" (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  2  completed. (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend" (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  2  completed. (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend" (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  2  completed. (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend" (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:55 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  2  completed. (:0) 
+Fri Feb 25 02:25:56 EST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Fri Feb 25 02:25:56 EST 2022 DATA OneDrivePrivacyDelegate (I) Action/InvokeOperation RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:56 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Fri Feb 25 02:25:57 EST 2022 DATA OneDrivePrivacyDelegate (I) Page/OpenFileOperationActivity RequiredServiceData null null true 
+Fri Feb 25 02:25:57 EST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Fri Feb 25 02:25:57 EST 2022 DATA OneDrivePrivacyDelegate (I) Action/OpenFileOperationActivity RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:57 EST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Fri Feb 25 02:25:57 EST 2022 DATA OneDrivePrivacyDelegate (I) OperationEnd/OpenFileOperationActivity RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:57 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:57 EST 2022 DATA OneDrivePrivacyDelegate (I) Page/DownloadAndOpenFileOperationActivity RequiredServiceData null null true 
+Fri Feb 25 02:25:57 EST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Fri Feb 25 02:25:57 EST 2022 DATA OneDrivePrivacyDelegate (I) Action/DownloadAndOpenFileOperationActivity RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  1  synchronously. (:0) 
+Fri Feb 25 02:25:57 EST 2022 DATA OneDrivePrivacyDelegate (I) StreamCache/FileDownloadOpenCachedFile/Primary OptionalDiagnosticData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  1  completed. (:0) 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Returning a cached result for item:  41 1 (:0) 
+Fri Feb 25 02:25:57 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:25:57 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:57 EST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Fri Feb 25 02:25:57 EST 2022 DATA OneDrivePrivacyDelegate (I) OperationEnd/DownloadAndOpenFileOperationActivity RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:57 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:57 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:25:57 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:57 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:25:57 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:57 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend" (:0) 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  2  completed. (:0) 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend" (:0) 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  2  completed. (:0) 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend" (:0) 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  2  completed. (:0) 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend" (:0) 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  2  completed. (:0) 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  1  synchronously. (:0) 
+Fri Feb 25 02:25:57 EST 2022 DATA OneDrivePrivacyDelegate (I) StreamCache/FileDownloadOpenCachedFile/Primary OptionalDiagnosticData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  1  completed. (:0) 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Returning a cached result for item:  41 1 (:0) 
+Fri Feb 25 02:25:57 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:25:57 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:57 EST 2022 DATA OneDrivePrivacyDelegate (I) ExternalContentProvider/OpenFile RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:57 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  1  synchronously. (:0) 
+Fri Feb 25 02:25:57 EST 2022 DATA OneDrivePrivacyDelegate (I) StreamCache/FileDownloadOpenCachedFile/Primary OptionalDiagnosticData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  1  completed. (:0) 
+Fri Feb 25 02:25:57 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Returning a cached result for item:  41 1 (:0) 
+Fri Feb 25 02:25:57 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:25:57 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:57 EST 2022 DATA OneDrivePrivacyDelegate (I) ExternalContentProvider/OpenFile RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:57 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:57 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:25:57 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:57 EST 2022 DATA OneDrivePrivacyDelegate (I) ExternalContentProvider/MimeTypeCheck RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:57 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:57 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:25:57 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:57 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:25:57 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:57 EST 2022 DATA OneDrivePrivacyDelegate (I) ExternalContentProvider/Query RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:57 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:25:58 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:25:58 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:58 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:25:58 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:58 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:25:58 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:58 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:25:58 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:58 EST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Fri Feb 25 02:25:58 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:58 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend" (:0) 
+Fri Feb 25 02:25:58 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:58 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  2  completed. (:0) 
+Fri Feb 25 02:25:58 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:58 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend" (:0) 
+Fri Feb 25 02:25:58 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:58 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  2  completed. (:0) 
+Fri Feb 25 02:25:58 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:58 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend" (:0) 
+Fri Feb 25 02:25:58 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:58 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  2  completed. (:0) 
+Fri Feb 25 02:25:58 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  41 ,  2  synchronously. (:0) 
+Fri Feb 25 02:25:58 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface StreamCacheUtils:getItemStreamCacheQuery: (no stream entry) "Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend" (:0) 
+Fri Feb 25 02:25:58 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got error in DownloadStreamWorkItem::execute: "{errorCode: 5, httpStatusCode: -1, message: Downloading stream type:2(Thumbnail) for item:41 with extension:.zip is not supported by backend, networkErrorCode: 0, type: StreamCacheException}" (:0) 
+Fri Feb 25 02:25:58 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  41 ,  2  completed. (:0) 
+Fri Feb 25 02:25:58 EST 2022 I ActivityNotificationManager Application state=PausingOrClosing 
+Fri Feb 25 02:25:58 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:25:58 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:25:58 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Fri Feb 25 02:25:58 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Fri Feb 25 02:25:58 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 41  streamType:  1 (:0) 
+Fri Feb 25 02:26:03 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:26:03 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:26:03 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:26:03 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:26:03 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:26:03 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:26:04 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:26:04 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:26:04 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:26:04 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:26:04 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:27:37 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:27:37 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:27:37 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:27:37 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:27:37 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:27:37 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:27:38 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.launcher is signed with e8:43:ee:3d:a1:19:5d:6a:fb:89:ca:a3:ce:74:27:b0:8f:c0:1f:d8:78:a2:4f:a5:6e:96:2c:35:c7:1d:5e:70 
+Fri Feb 25 02:27:38 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.launcher, MS app = true, debug mode = false 
+Fri Feb 25 02:27:38 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:27:38 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:27:38 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:27:43 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:27:43 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:27:43 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:27:43 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:27:43 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:27:43 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:28:22 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:28:22 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:28:22 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:28:22 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:28:22 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:28:22 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:28:24 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:28:24 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:28:24 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:28:24 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:28:24 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:28:24 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:28:28 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:28:28 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:28:28 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:28:28 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:28:28 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:28:28 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:28:30 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:28:30 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:28:30 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:28:30 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:28:30 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:28:30 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:28:46 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:28:46 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:28:46 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:28:46 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:28:46 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:28:46 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:29:47 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:29:47 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:29:47 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:29:47 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:29:47 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:29:47 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:29:53 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:29:53 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:29:53 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:29:53 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:29:53 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:29:53 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:29:57 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:29:57 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:29:57 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:29:57 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:29:57 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:29:57 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:29:59 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:29:59 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:29:59 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:29:59 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:29:59 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:29:59 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:30:00 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:30:00 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:30:00 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:30:00 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:30:00 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:30:00 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:30:12 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:30:12 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:30:12 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:30:13 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:30:13 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:30:13 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:30:30 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:30:30 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:30:30 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:30:30 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:30:30 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:30:30 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:30:35 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:30:35 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:30:35 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:30:35 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:30:35 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:30:35 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:30:38 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:30:38 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:30:38 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:30:38 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:30:38 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:30:38 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:31:02 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:31:02 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:31:02 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:31:02 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:31:02 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:31:02 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:31:19 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:31:19 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:31:19 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:31:19 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:31:19 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:31:19 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:31:35 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:31:35 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:31:35 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:31:35 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:31:35 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:31:35 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:32:18 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:32:18 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:32:18 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:32:18 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:32:18 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:32:18 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:32:47 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:32:47 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:32:47 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:32:47 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:32:47 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:32:47 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:32:47 EST 2022 DATA CameraRollSyncAdapter Camera roll sync adapter constructed. 
+Fri Feb 25 02:32:47 EST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Fri Feb 25 02:32:47 EST 2022 DATA CameraRollSyncAdapter Camera roll sync adapter onPerformSync invoked. 
+Fri Feb 25 02:32:47 EST 2022 DATA CameraRollSyncAdapter Is account sync on: true 
+Fri Feb 25 02:32:47 EST 2022 I CameraRollBackupProcessor/AutoUploadService run: trigger reason - SyncAdapterNetworkTickle 
+Fri Feb 25 02:32:48 EST 2022 I ServiceUtils/CameraRollBackupProcessor/AutoUploadService session Id: 1645774367999 | startForegroundService: com.microsoft.skydrive.upload.START_SYNC 
+Fri Feb 25 02:32:48 EST 2022 DATA AutoUploadService Starting service in the foreground from onCreate() 
+Fri Feb 25 02:32:48 EST 2022 DATA AutoUploadService Successfully started service in the foreground onCreate() 
+Fri Feb 25 02:32:48 EST 2022 V AutoUploadService Upload Service Created. 
+Fri Feb 25 02:32:48 EST 2022 DATA AutoUploadService Starting service in the foreground from onStartCommand 
+Fri Feb 25 02:32:48 EST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Fri Feb 25 02:32:48 EST 2022 DATA AutoUploadService Successfully started service in the foreground onStartCommand 
+Fri Feb 25 02:32:48 EST 2022 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Fri Feb 25 02:32:48 EST 2022 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Fri Feb 25 02:32:48 EST 2022 DATA AutoUploadService startSync invoked. 
+Fri Feb 25 02:32:48 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService Found buckets number: 53 | Enabled buckets number: 1 
+Fri Feb 25 02:32:48 EST 2022 DATA AutoUploadNotificationManager AutoUploadService-startSync 
+Fri Feb 25 02:32:48 EST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Fri Feb 25 02:32:48 EST 2022 DATA AutoUploadNotificationManager uploadingStatus: Preparing 
+Fri Feb 25 02:32:48 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Fri Feb 25 02:32:48 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Fri Feb 25 02:32:48 EST 2022 DATA CameraRollProvider/AutoUploadService Including videos in camera roll media. 
+Fri Feb 25 02:32:48 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Fri Feb 25 02:32:48 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Fri Feb 25 02:32:48 EST 2022 I com.microsoft.skydrive.n6.e refreshMetadata onComplete() 
+Fri Feb 25 02:32:48 EST 2022 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Fri Feb 25 02:32:48 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:32:48 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:32:48 EST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Fri Feb 25 02:32:48 EST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Fri Feb 25 02:32:48 EST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Fri Feb 25 02:32:48 EST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Fri Feb 25 02:32:48 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:32:48 EST 2022 I ServiceUtils/CameraRollBackupProcessor/AutoUploadService session Id: 1645774367999 | startForegroundService: com.microsoft.skydrive.upload.END_SYNC 
+Fri Feb 25 02:32:48 EST 2022 DATA AutoUploadService Starting service in the foreground from onStartCommand 
+Fri Feb 25 02:32:48 EST 2022 DATA AutoUploadService Successfully started service in the foreground onStartCommand 
+Fri Feb 25 02:32:48 EST 2022 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Fri Feb 25 02:32:48 EST 2022 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Fri Feb 25 02:32:48 EST 2022 DATA AutoUploadService endSync invoked with error code: 0 
+Fri Feb 25 02:32:48 EST 2022 DATA AutoUploadService Auto upload service is destroyed. 
+Fri Feb 25 02:32:48 EST 2022 DATA AutoUploadNotificationManager SyncService-cancelAllTasks 
+Fri Feb 25 02:32:48 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService startBackup finished. 
+Fri Feb 25 02:32:48 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncScenario:                 BACKUP 
+Fri Feb 25 02:32:48 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSessionId:                 1645774367999 
+Fri Feb 25 02:32:48 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService isBackupInterrupted:        false 
+Fri Feb 25 02:32:48 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService cancellationSource:         No cancellation source 
+Fri Feb 25 02:32:48 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeGetAllMediaItems:      0.04 
+Fri Feb 25 02:32:48 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemScanned:          2 
+Fri Feb 25 02:32:48 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalSizeHashed:           0 
+Fri Feb 25 02:32:48 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsHashed:          0 
+Fri Feb 25 02:32:48 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeTotalHashing:          0.0 
+Fri Feb 25 02:32:48 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mMetadataQueried:           0 
+Fri Feb 25 02:32:48 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeMetadataQueried:       0.0 
+Fri Feb 25 02:32:48 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncMetadataQueried:       2 
+Fri Feb 25 02:32:48 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeSyncMetadataQueried:   0.006 
+Fri Feb 25 02:32:48 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForProcessing:         0.291 
+Fri Feb 25 02:32:48 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForMetadataRefreshing: 0.028 
+Fri Feb 25 02:32:48 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsEnqueuedForUpload: 0 
+Fri Feb 25 02:32:48 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mQueuedItems:  
+Fri Feb 25 02:32:48 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mIsSamsungSdCardBackup: false 
+Fri Feb 25 02:32:48 EST 2022 DATA OneDrivePrivacyDelegate (I) Performance/AutoUploadDetection RequiredServiceData null null true 
+Fri Feb 25 02:32:48 EST 2022 DATA AutoUploadNotificationManager uploadingStatus: Done 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollJob Camera roll job started. 
+Fri Feb 25 02:32:50 EST 2022 I CameraRollBackupProcessor/AutoUploadService run: trigger reason - SyncJob 
+Fri Feb 25 02:32:50 EST 2022 I ServiceUtils/CameraRollBackupProcessor/AutoUploadService session Id: 1645774370715 | startForegroundService: com.microsoft.skydrive.upload.START_SYNC 
+Fri Feb 25 02:32:50 EST 2022 DATA AutoUploadService Starting service in the foreground from onCreate() 
+Fri Feb 25 02:32:50 EST 2022 DATA AutoUploadService Successfully started service in the foreground onCreate() 
+Fri Feb 25 02:32:50 EST 2022 V AutoUploadService Upload Service Created. 
+Fri Feb 25 02:32:50 EST 2022 DATA AutoUploadService Starting service in the foreground from onStartCommand 
+Fri Feb 25 02:32:50 EST 2022 DATA AutoUploadService Successfully started service in the foreground onStartCommand 
+Fri Feb 25 02:32:50 EST 2022 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Fri Feb 25 02:32:50 EST 2022 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Fri Feb 25 02:32:50 EST 2022 DATA AutoUploadService startSync invoked. 
+Fri Feb 25 02:32:50 EST 2022 DATA AutoUploadNotificationManager AutoUploadService-startSync 
+Fri Feb 25 02:32:50 EST 2022 DATA AutoUploadNotificationManager uploadingStatus: Preparing 
+Fri Feb 25 02:32:50 EST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService Found buckets number: 53 | Enabled buckets number: 1 
+Fri Feb 25 02:32:50 EST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Fri Feb 25 02:32:50 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Fri Feb 25 02:32:50 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollProvider/AutoUploadService Including videos in camera roll media. 
+Fri Feb 25 02:32:50 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Fri Feb 25 02:32:50 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Fri Feb 25 02:32:50 EST 2022 I com.microsoft.skydrive.n6.e refreshMetadata onComplete() 
+Fri Feb 25 02:32:50 EST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Fri Feb 25 02:32:50 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:32:50 EST 2022 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Fri Feb 25 02:32:50 EST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Fri Feb 25 02:32:50 EST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Fri Feb 25 02:32:50 EST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Fri Feb 25 02:32:50 EST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Fri Feb 25 02:32:50 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:32:50 EST 2022 I ServiceUtils/CameraRollBackupProcessor/AutoUploadService session Id: 1645774370715 | startForegroundService: com.microsoft.skydrive.upload.END_SYNC 
+Fri Feb 25 02:32:50 EST 2022 DATA AutoUploadService Starting service in the foreground from onStartCommand 
+Fri Feb 25 02:32:50 EST 2022 DATA AutoUploadService Successfully started service in the foreground onStartCommand 
+Fri Feb 25 02:32:50 EST 2022 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Fri Feb 25 02:32:50 EST 2022 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Fri Feb 25 02:32:50 EST 2022 DATA AutoUploadService endSync invoked with error code: 0 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService startBackup finished. 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncScenario:                 BACKUP 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSessionId:                 1645774370715 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService isBackupInterrupted:        false 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService cancellationSource:         No cancellation source 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeGetAllMediaItems:      0.036 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemScanned:          2 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalSizeHashed:           0 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsHashed:          0 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeTotalHashing:          0.0 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mMetadataQueried:           0 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeMetadataQueried:       0.0 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncMetadataQueried:       2 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeSyncMetadataQueried:   0.006 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForProcessing:         0.181 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForMetadataRefreshing: 0.009 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsEnqueuedForUpload: 0 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mQueuedItems:  
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mIsSamsungSdCardBackup: false 
+Fri Feb 25 02:32:50 EST 2022 DATA OneDrivePrivacyDelegate (I) Performance/AutoUploadDetection RequiredServiceData null null true 
+Fri Feb 25 02:32:50 EST 2022 DATA AutoUploadService Auto upload service is destroyed. 
+Fri Feb 25 02:32:50 EST 2022 W CameraRollJob Camera roll job stopped and backup cancelled. 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService startBackup finished. 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncScenario:                 BACKUP 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSessionId:                 1645774370715 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService isBackupInterrupted:        false 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService cancellationSource:         CameraRollJob 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeGetAllMediaItems:      0.036 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemScanned:          2 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalSizeHashed:           0 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsHashed:          0 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeTotalHashing:          0.0 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mMetadataQueried:           0 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeMetadataQueried:       0.0 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncMetadataQueried:       2 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeSyncMetadataQueried:   0.006 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForProcessing:         0.181 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForMetadataRefreshing: 0.009 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsEnqueuedForUpload: 0 
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mQueuedItems:  
+Fri Feb 25 02:32:50 EST 2022 DATA CameraRollBackupProcessor/AutoUploadService mIsSamsungSdCardBackup: false 
+Fri Feb 25 02:32:50 EST 2022 DATA OneDrivePrivacyDelegate (I) Performance/AutoUploadDetection RequiredServiceData null null true 
+Fri Feb 25 02:32:50 EST 2022 DATA AutoUploadNotificationManager SyncService-cancelAllTasks 
+Fri Feb 25 02:32:50 EST 2022 DATA AutoUploadNotificationManager uploadingStatus: Done 
+Fri Feb 25 02:32:51 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:32:51 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:32:51 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:32:51 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:32:51 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:32:51 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:32:57 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:32:57 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:32:57 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:32:57 EST 2022 DATA QueryBasedCursor Cursor closed 
+Fri Feb 25 02:55:31 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:55:31 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:55:31 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:55:31 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:55:31 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:55:31 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:56:21 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 02:57:49 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:57:49 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:57:49 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:57:49 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:57:49 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:57:49 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:58:12 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:58:12 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:58:12 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:58:12 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:58:12 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:58:12 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:58:15 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:58:15 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:58:15 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:58:15 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:58:15 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:58:15 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:58:17 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:58:17 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:58:17 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:58:17 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:58:17 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:58:17 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 02:58:55 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 02:58:55 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 02:58:55 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 02:58:55 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:58:55 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 02:58:55 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 03:06:57 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 03:06:57 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 03:06:57 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 03:06:57 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 03:06:57 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 03:06:57 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 03:09:24 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 03:09:24 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 03:09:24 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 03:09:24 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 03:09:24 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 03:09:24 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 03:15:36 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Fri Feb 25 03:15:36 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Fri Feb 25 03:15:36 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 41  streamType:  1 (:0) 
+Fri Feb 25 03:15:36 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 96  streamType:  1 (:0) 
+Fri Feb 25 03:15:36 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 94  streamType:  1 (:0) 
+Fri Feb 25 04:15:29 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Fri Feb 25 04:15:29 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Fri Feb 25 04:15:29 EST 2022 I com.microsoft.onedrivecore.LogWriterInterface No new state for item: 41  streamType:  1 (:0) 
+Fri Feb 25 05:00:03 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 05:00:03 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 05:00:03 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 05:00:03 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 05:00:03 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 05:00:03 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 05:00:15 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:15 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:15 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:16 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:16 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:16 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 05:00:16 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 05:00:16 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 05:00:16 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 05:00:16 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 05:00:16 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 05:00:16 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:16 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:16 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:16 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:16 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:16 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:16 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:16 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:16 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:16 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:16 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:16 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:16 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:16 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:16 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:16 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:18 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:18 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 05:00:18 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 05:00:18 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 05:00:18 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 05:00:18 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 05:00:18 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 05:00:19 EST 2022 DATA MeridianActivity isMeridianEnabled: true, isRampEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 25 05:00:39 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
+Fri Feb 25 05:00:39 EST 2022 V PackageUtils_v1.6.2 Package com.microsoft.office.word is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51 
+Fri Feb 25 05:00:39 EST 2022 V TokenSharingService_v1.6.2 Binding request is approved from com.microsoft.office.word, MS app = true, debug mode = false 
+Fri Feb 25 05:00:39 EST 2022 DATA OneAuth OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 05:00:39 EST 2022 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 1 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 1 
+Fri Feb 25 05:00:39 EST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 9fa930dc27b6f70f true 
+Fri Feb 25 05:05:12 EST 2022 V PackageUtils_v1.6.2 There is more than 1 package associated with the uid: 10067 
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.office.excel
+com.microsoft.office.officehubrow 
